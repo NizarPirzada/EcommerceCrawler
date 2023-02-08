@@ -1,0 +1,14 @@
+selenium
+fake-useragent
+webdriver-manager
+bs4
+html5lib
+pywin32
+pytz
+firebase_admin
+protobuf==3.20.1
+grpcio
+google-api-core
+google-cloud-firestore
+black
+flatten-json

@@ -1,0 +1,49 @@
+1664973896419	geckodriver	INFO	Listening on 127.0.0.1:53818
+1664973899544	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53819" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Haider\\AppData\\Local\\Temp\\rust_mozprofileBkFWSu"
+1664973926804	geckodriver	INFO	Listening on 127.0.0.1:53883
+1664973929911	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53884" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Haider\\AppData\\Local\\Temp\\rust_mozprofile3JAprs"
+1664973930873	Marionette	INFO	Marionette enabled
+1664973930884	Marionette	INFO	Listening on port 53895
+Read port: 53895
+WebDriver BiDi listening on ws://127.0.0.1:53884
+1664973931144	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Haider\\AppData\\Local\\Temp\\rust_mozprofile3JAprs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53884/devtools/browser/3cb80a0b-4cb7-4123-9feb-aea2514b1cd3
+1664974275715	geckodriver	INFO	Listening on 127.0.0.1:54105
+1664974278832	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54106" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Haider\\AppData\\Local\\Temp\\rust_mozprofilew6PjHj"
+1664974280344	Marionette	INFO	Marionette enabled
+1664974280358	Marionette	INFO	Listening on port 54119
+Read port: 54119
+WebDriver BiDi listening on ws://127.0.0.1:54106
+1664974280686	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Haider\\AppData\\Local\\Temp\\rust_mozprofilew6PjHj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54106/devtools/browser/32a8a4e2-011d-4f4d-8ffa-920ee0051a9e
+1665036938674	geckodriver	INFO	Listening on 127.0.0.1:63870
+1665036941819	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63871" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Haider\\AppData\\Local\\Temp\\rust_mozprofileZ4zmc0"
+1665036942881	Marionette	INFO	Marionette enabled
+1665036942899	Marionette	INFO	Listening on port 63887
+Read port: 63887
+WebDriver BiDi listening on ws://127.0.0.1:63871
+1665036943151	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Haider\\AppData\\Local\\Temp\\rust_mozprofileZ4zmc0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63871/devtools/browser/785781a8-fb24-4f77-a59c-bb8151239a8a
+1665037593179	geckodriver	INFO	Listening on 127.0.0.1:64394
+1665037596319	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64395" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Haider\\AppData\\Local\\Temp\\rust_mozprofiles1iC0Q"
+1665037597295	Marionette	INFO	Marionette enabled
+1665037597307	Marionette	INFO	Listening on port 64410
+Read port: 64410
+WebDriver BiDi listening on ws://127.0.0.1:64395
+1665037597540	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Haider\\AppData\\Local\\Temp\\rust_mozprofiles1iC0Q\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64395/devtools/browser/a4029e9a-3d3d-49f9-a7d0-0011a5428f69
+1665037646363	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1665037646375	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1665037646385	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1665037646395	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1665037646405	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1665037646420	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1665037646433	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1665037646439	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1665037646447	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1665037646455	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://client.px-cloud.net/PXTY0eJULE/main.min.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
