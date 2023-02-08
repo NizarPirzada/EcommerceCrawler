@@ -10,20 +10,11 @@ CHROME_UNDETECTED_VERSION = 104
 
 CAPTCHA_EXTENSION = 0
 CAPTCHA_EXTENSION_PATH = os.path.join(BASE_DIRECTORY, "anticaptcha-plugin_v0.59.xpi")
-CAPTCHA_EXTENSION_KEY = "2c9093b7552ea174863f8efaad50d82b"
+CAPTCHA_EXTENSION_KEY = ""
 
 PROXY = 0
 PROXY_LIST = [
-    "179.43.137.230:8800",
-    "179.43.137.35:8800",
-    "154.37.248.147:8800",
-    "185.189.36.146:8800",
-    "185.189.39.242:8800",
-    "185.189.39.226:8800",
-    "154.37.248.39:8800",
-    "154.37.248.6:8800",
-    "154.37.248.153:8800",
-    "185.189.36.211:8800",
+  
 ]
 
 CHROME_PROFILE = 0
@@ -49,8 +40,8 @@ SUPER_CATALOG_TEMPLATES = {
             "url": "https://www.tecnec.com/",
             "methods": [
                 """self.driver_click('xpath', '//*[@id="btnlogin"]')""",
-                """self.driver_fill_input('xpath', '//*[@id="Secure_Checkout_Email"]', 'LC687947')""",
-                """self.driver_fill_input('xpath', '//*[@id="Secure_Checkout_Password"]', 'oeW78Vq1G!0^vkn8*sefANdt$m8')""",
+                """self.driver_fill_input('xpath', '//*[@id="Secure_Checkout_Email"]', 'asd')""",
+                """self.driver_fill_input('xpath', '//*[@id="Secure_Checkout_Password"]', 'asdm8')""",
                 """self.driver_click('xpath', '//*[@id="Secure_Checkout_Login"]')""",
             ]
         },
