@@ -15,11 +15,6 @@ DB_SETTINGS = {
     }
 }
 
-ACTOR_SETTINGS = {
-    "id": "0d286f61d6574c98a89f8360062cabd7",
-    "email": "scraper1@alta.systems",
-    "uid": "n6mMj4I28hZhELVUfr4es0VmNfj2",
-}
 
 
 DEFAULT_CATALOG_OBJ = {
